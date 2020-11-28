@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c954ef7385f58b9d3f06b07bd44b57a1",
+    "revision": "3eb5bc0974e85a232a90ee42f4ea462e",
     "url": "/sushiFrontend/index.html"
   },
   {
-    "revision": "f87d6fcdea1aa516bfec",
+    "revision": "60295343e949539d9cc0",
     "url": "/sushiFrontend/static/css/main.9bc6d313.chunk.css"
   },
   {
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sushiFrontend/static/js/9.6e5bc6a4.chunk.js"
   },
   {
-    "revision": "f87d6fcdea1aa516bfec",
-    "url": "/sushiFrontend/static/js/main.966a32a8.chunk.js"
+    "revision": "60295343e949539d9cc0",
+    "url": "/sushiFrontend/static/js/main.43223d25.chunk.js"
   },
   {
     "revision": "a0ca8556936577acf01d",
