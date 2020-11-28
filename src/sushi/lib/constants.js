@@ -40,13 +40,13 @@ export const addressMap = {
 
 export const contractAddresses = {
   sushi: {
-    1: '0xa87BEaAFd6d40Dd0E3d24099d4555DAfb4f96631',
+    1: '0x6B3595068778DD592e39A122f4f5a5cF09C90fE2',
   },
   masterChef: {
-    1: '0xD56c7a3B5eA63A267B28993E766Fb3bD0E2A391d',
+    1: '0x0c86790545C2A629e2684B958313D001AA33540F',
   },
   weth: {
-    1: '0xd0A1E359811322d97991E03f863a0C30C2cF029C',
+    1: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2\'',
   },
 }
 
